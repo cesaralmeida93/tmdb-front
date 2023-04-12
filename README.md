@@ -1,6 +1,6 @@
 # My Movies
 
-Projeto da matéria Arquitetura de Front End
+- Projeto da matéria Arquitetura de Front End
 
 ## Iniciar o projeto
 
